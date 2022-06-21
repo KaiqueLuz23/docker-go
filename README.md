@@ -1,4 +1,5 @@
 # Desafio Go
+<img src="https://go.dev/images/go-logo-white.svg" alt="ELK" width="400" align="right" />
 
 ---
 
@@ -18,5 +19,8 @@ Se você perceber, essa imagem apenas realiza um print da mensagem como resultad
 
 A imagem de nosso projeto Go precisa ter menos de 2MB =)
 
+---
 
 Link da imagem (DockerHub): https://hub.docker.com/r/kaiqueluz23/codeeducation
+
+---
