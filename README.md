@@ -1,4 +1,4 @@
-# Desafio Go
+# Desafio Go Imersao Fullcycle
 <img src="https://go.dev/images/go-logo-white.svg" alt="ELK" width="400" align="right" />
 
 ---
