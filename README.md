@@ -1,4 +1,4 @@
-# Desafio Go Imersao Fullcycle
+# Desafio Go Imersão Fullcycle
 <img src="https://go.dev/images/go-logo-white.svg" alt="ELK" width="400" align="right" />
 
 ---
@@ -21,6 +21,6 @@ A imagem de nosso projeto Go precisa ter menos de 2MB =)
 
 ---
 
-Link da imagem (DockerHub): https://hub.docker.com/r/kaiqueluz23/codeeducation
+DockerHub: https://hub.docker.com/r/kaiqueluz23/codeeducation
 
 ---
